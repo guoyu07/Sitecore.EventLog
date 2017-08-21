@@ -82,6 +82,24 @@
     <Content Include="App_Config\SitecoreEventLog.config">
       <SubType>Designer</SubType>
     </Content>
+    <Content Include="items\core\sitecore\content\Applications\Content Editor\Context Menues\Default\Event Log\For Item\{31BAA3AB-2990-44D6-B81F-D63E45B26974}\da\1\xml" />
+    <Content Include="items\core\sitecore\content\Applications\Content Editor\Context Menues\Default\Event Log\For Item\{31BAA3AB-2990-44D6-B81F-D63E45B26974}\de-DE\1\xml" />
+    <Content Include="items\core\sitecore\content\Applications\Content Editor\Context Menues\Default\Event Log\For Item\{31BAA3AB-2990-44D6-B81F-D63E45B26974}\en\1\xml" />
+    <Content Include="items\core\sitecore\content\Applications\Content Editor\Context Menues\Default\Event Log\For Item\{31BAA3AB-2990-44D6-B81F-D63E45B26974}\ja-JP\1\xml" />
+    <Content Include="items\core\sitecore\content\Applications\Content Editor\Context Menues\Default\Event Log\For Site\{E99F2545-D329-414A-A03B-D6CC0789B52D}\da\1\xml" />
+    <Content Include="items\core\sitecore\content\Applications\Content Editor\Context Menues\Default\Event Log\For Site\{E99F2545-D329-414A-A03B-D6CC0789B52D}\de-DE\1\xml" />
+    <Content Include="items\core\sitecore\content\Applications\Content Editor\Context Menues\Default\Event Log\For Site\{E99F2545-D329-414A-A03B-D6CC0789B52D}\en\1\xml" />
+    <Content Include="items\core\sitecore\content\Applications\Content Editor\Context Menues\Default\Event Log\For Site\{E99F2545-D329-414A-A03B-D6CC0789B52D}\ja-JP\1\xml" />
+    <Content Include="items\core\sitecore\content\Applications\Content Editor\Context Menues\Default\Event Log\{F5C76E35-A063-4D36-AE4D-BE8764E55305}\da\1\xml" />
+    <Content Include="items\core\sitecore\content\Applications\Content Editor\Context Menues\Default\Event Log\{F5C76E35-A063-4D36-AE4D-BE8764E55305}\de-DE\1\xml" />
+    <Content Include="items\core\sitecore\content\Applications\Content Editor\Context Menues\Default\Event Log\{F5C76E35-A063-4D36-AE4D-BE8764E55305}\en\1\xml" />
+    <Content Include="items\core\sitecore\content\Applications\Content Editor\Context Menues\Default\Event Log\{F5C76E35-A063-4D36-AE4D-BE8764E55305}\ja-JP\1\xml" />
+    <Content Include="items\core\sitecore\content\Applications\Content Editor\Ribbons\Chunks\EventLog\EventLog\{DD1AA086-70B8-4B9C-B91E-F33D6FD283D1}\en\1\xml" />
+    <Content Include="items\core\sitecore\content\Applications\Content Editor\Ribbons\Chunks\EventLog\{B1DC1A39-BC2E-4024-B872-2AC0FE8A0D89}\en\1\xml" />
+    <Content Include="items\core\sitecore\content\Applications\Content Editor\Ribbons\Strips\Review\EventLog\{58AED06C-A381-4AFC-96B9-3B30770A8F46}\da\1\xml" />
+    <Content Include="items\core\sitecore\content\Applications\Content Editor\Ribbons\Strips\Review\EventLog\{58AED06C-A381-4AFC-96B9-3B30770A8F46}\de-DE\1\xml" />
+    <Content Include="items\core\sitecore\content\Applications\Content Editor\Ribbons\Strips\Review\EventLog\{58AED06C-A381-4AFC-96B9-3B30770A8F46}\en\1\xml" />
+    <Content Include="items\core\sitecore\content\Applications\Content Editor\Ribbons\Strips\Review\EventLog\{58AED06C-A381-4AFC-96B9-3B30770A8F46}\ja-JP\1\xml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
