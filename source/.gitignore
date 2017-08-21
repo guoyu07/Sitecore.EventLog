@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+**/node_modules/
+*.suo
+*.user
+*.orig
+**/bower_components/
+target/
+**packages/
+.vs/
+SitecoreEventLog/UpgradeLog.htm
