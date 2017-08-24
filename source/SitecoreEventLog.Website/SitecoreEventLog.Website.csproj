@@ -79,9 +79,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
-    <Content Include="App_Config\SitecoreEventLog.config">
-      <SubType>Designer</SubType>
-    </Content>
     <Content Include="items\core\sitecore\content\Applications\Content Editor\Context Menues\Default\Event Log\For Item\{31BAA3AB-2990-44D6-B81F-D63E45B26974}\da\1\xml" />
     <Content Include="items\core\sitecore\content\Applications\Content Editor\Context Menues\Default\Event Log\For Item\{31BAA3AB-2990-44D6-B81F-D63E45B26974}\de-DE\1\xml" />
     <Content Include="items\core\sitecore\content\Applications\Content Editor\Context Menues\Default\Event Log\For Item\{31BAA3AB-2990-44D6-B81F-D63E45B26974}\en\1\xml" />
@@ -100,6 +97,7 @@
     <Content Include="items\core\sitecore\content\Applications\Content Editor\Ribbons\Strips\Review\EventLog\{58AED06C-A381-4AFC-96B9-3B30770A8F46}\de-DE\1\xml" />
     <Content Include="items\core\sitecore\content\Applications\Content Editor\Ribbons\Strips\Review\EventLog\{58AED06C-A381-4AFC-96B9-3B30770A8F46}\en\1\xml" />
     <Content Include="items\core\sitecore\content\Applications\Content Editor\Ribbons\Strips\Review\EventLog\{58AED06C-A381-4AFC-96B9-3B30770A8F46}\ja-JP\1\xml" />
+    <Content Include="App_Config\zEventLog\SitecoreEventLog.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
