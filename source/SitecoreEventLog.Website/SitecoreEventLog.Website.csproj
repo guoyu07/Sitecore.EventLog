@@ -107,6 +107,14 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="sitecore modules\Shell\SitecoreEventLog\ItemEventLog.aspx" />
+    <Content Include="sitecore modules\Shell\SitecoreEventLog\Resources\bootstrap-slider.js" />
+    <Content Include="sitecore modules\Shell\SitecoreEventLog\Resources\bootstrap.css" />
+    <Content Include="sitecore modules\Shell\SitecoreEventLog\Resources\bootstrap.min.css" />
+    <Content Include="sitecore modules\Shell\SitecoreEventLog\Resources\DT_bootstrap.css" />
+    <Content Include="sitecore modules\Shell\SitecoreEventLog\Resources\DT_bootstrap.js" />
+    <Content Include="sitecore modules\Shell\SitecoreEventLog\Resources\jquery.dataTables.js" />
+    <Content Include="sitecore modules\Shell\SitecoreEventLog\Resources\jquery.js" />
+    <Content Include="sitecore modules\Shell\SitecoreEventLog\Resources\slider.css" />
     <Content Include="sitecore modules\Shell\SitecoreEventLog\SiteEventLog.aspx" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>

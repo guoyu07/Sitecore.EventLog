@@ -56,7 +56,7 @@ namespace SitecoreEventLog.Website.Commands
                     url.Append("ve", HttpUtility.UrlEncode(args.Parameters[VersionParameterKey]));
 
                     Context.ClientPage.ClientResponse.ShowModalDialog(url.ToString(),
-                        "990px", "570px",
+                        "990px", "650px",
                         "ForSitePageURL", true);
                     args.WaitForPostBack();
                 }

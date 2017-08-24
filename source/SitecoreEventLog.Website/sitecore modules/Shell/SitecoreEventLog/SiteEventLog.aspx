@@ -11,8 +11,6 @@
     <script type="text/javascript" charset="utf-8" language="javascript" src="Resources/jquery.js"></script>
     <script type="text/javascript" charset="utf-8" language="javascript" src="Resources/jquery.dataTables.js"></script>
     <script type="text/javascript" charset="utf-8" language="javascript" src="Resources/DT_bootstrap.js"></script>
-
-    <script type="text/javascript" charset="utf-8" language="javascript" src="Resources/AuditTrail.js"></script>
 </head>
 <body>
     <h3 style="padding-left: 25px; margin-bottom:0;">Log for site</h3>

@@ -295,7 +295,7 @@ BEGIN
 	SELECT * FROM dbo.[Event] 
 	WHERE ItemId = @ItemId 
 	ORDER BY [Date] DESC
-	offset @StartRows*@MaximumRows rows
+	offset @StartRows rows
 	FETCH NEXT @MaximumRows rows only
 END
 

@@ -54,7 +54,7 @@ namespace SitecoreEventLog.Website.Commands
                     url.Append("la", HttpUtility.UrlEncode(args.Parameters[LanguageParameterKey]));
                     url.Append("ve", HttpUtility.UrlEncode(args.Parameters[VersionParameterKey]));
 
-                    Context.ClientPage.ClientResponse.ShowModalDialog(url.ToString(),"990px", "570px","ForItemPageURL", true);
+                    Context.ClientPage.ClientResponse.ShowModalDialog(url.ToString(),"990px", "650px","ForItemPageURL", true);
                     args.WaitForPostBack();
                 }
                 else
